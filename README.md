@@ -113,22 +113,6 @@ Hospital-Management-System-in-Cpp/
 ### Appointment Management
 [Screenshot of appointment management will be added here]
 
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch
-```bash
-git checkout -b feature/AmazingFeature
-```
-3. Commit your changes
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-4. Push to the branch
-```bash
-git push origin feature/AmazingFeature
-```
-5. Open a Pull Request
 
 ## ⚠️ Prerequisites
 - C++ Compiler (GCC recommended)
@@ -136,32 +120,3 @@ git push origin feature/AmazingFeature
 - Minimum 512MB RAM
 - 50MB free disk space
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Author
-
-- **Munyb** - [@Barcha22](https://github.com/Barcha22)
-
-## 📞 Contact
-
-- GitHub: [@Barcha22](https://github.com/Barcha22)
-- Project Link: [https://github.com/Barcha22/Hospital-Management-System-in-Cpp](https://github.com/Barcha22/Hospital-Management-System-in-Cpp)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped with this project
-- Inspired by modern hospital management systems
-- Special thanks to the C++ community for resources and support
-
-## 📊 Future Enhancements
-
-- Implement a graphical user interface (GUI)
-- Add database integration
-- Include report generation in PDF format
-- Implement automated backup system
-- Add multi-language support
-
----
-**Note:** This project is continuously being improved. Feel free to contribute and make it better!
