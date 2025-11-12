@@ -22,19 +22,11 @@ A comprehensive C++ console-based Hospital Management System designed to efficie
 - Assign specializations
 - View doctor's patient list
 
-### 📅 Appointment System
-- Schedule new appointments
-- Modify existing appointments
-- Cancel appointments
-- Send appointment reminders
-- View daily/weekly schedules
-
 ### 💰 Billing System
 - Generate patient bills
 - Process payments
 - Track pending payments
 - Generate financial reports
-- Manage insurance claims
 
 ## 🛠️ Technologies Used
 - C++ Programming Language
@@ -63,60 +55,3 @@ g++ main.cpp -o hospital_system
 ```bash
 ./hospital_system
 ```
-
-## 💻 Usage
-
-1. Start the application
-2. Login with appropriate credentials
-3. Navigate through the main menu:
-   - Patient Management
-   - Doctor Management
-   - Appointment System
-   - Billing System
-   - Reports Generation
-   - System Administration
-4. Follow on-screen prompts for specific operations
-5. Use the help command for additional guidance
-
-## 📁 Project Structure
-```
-Hospital-Management-System-in-Cpp/
-├── src/
-│   ├── main.cpp
-│   ├── patient.cpp
-│   ├── doctor.cpp
-│   ├── appointment.cpp
-│   └── billing.cpp
-├── include/
-│   ├── patient.h
-│   ├── doctor.h
-│   ├── appointment.h
-│   └── billing.h
-├── data/
-│   ├── patients/
-│   ├── doctors/
-│   ├── appointments/
-│   └── bills/
-├── docs/
-│   └── documentation.md
-└── README.md
-```
-
-## 📸 Screenshots
-
-### Main Menu
-[Screenshot of main menu will be added here]
-
-### Patient Registration
-[Screenshot of patient registration will be added here]
-
-### Appointment Management
-[Screenshot of appointment management will be added here]
-
-
-## ⚠️ Prerequisites
-- C++ Compiler (GCC recommended)
-- Basic understanding of C++
-- Minimum 512MB RAM
-- 50MB free disk space
-
