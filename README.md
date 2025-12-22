@@ -2,7 +2,6 @@
 
 A comprehensive C++ console-based Hospital Management System designed to efficiently manage hospital operations, patient records, and administrative tasks.
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
 
