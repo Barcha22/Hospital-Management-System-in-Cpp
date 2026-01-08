@@ -29,7 +29,6 @@ A comprehensive C++ console-based Hospital Management System designed to efficie
 
 ## 🛠️ Technologies Used
 - C++ Programming Language
-- File Handling for Data Persistence
 - Data Structures (Arrays, Linked Lists, etc.)
 - Object-Oriented Programming Concepts
 
