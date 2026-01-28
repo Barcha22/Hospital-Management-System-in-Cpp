@@ -1,6 +1,6 @@
-# 🏥 Hospital Management System
+# Hospital Management System
 
-A comprehensive C++ console-based Hospital Management System designed to efficiently manage hospital operations, patient records, and administrative tasks.
+A C++ console-based Hospital Management System designed to manage hospital operations, patient records, and administrative tasks. This was an assignment for data structures where we were given the task to make management systems by using data structure algorithms.
 
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
